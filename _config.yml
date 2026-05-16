@@ -39,3 +39,10 @@ collections:
   - news
   - showcase
   - posts
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      published: false
