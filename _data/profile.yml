@@ -33,6 +33,14 @@ education:
   position: Mechanical Engineering
   date: 2024 - present
 
+internship:
+- name: ACE Robotics
+  logo: /ace.png
+  dept: Environmental Data Acquisition R&D Department
+  position: Research Intern
+  supervisor: Liang Pan
+  date: 2026.07 - present
+
 # experience:
 # - name: Peking University
 #   logo: /assets/images/badges/PKU_red.png
