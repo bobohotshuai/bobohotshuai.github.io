@@ -27,10 +27,10 @@ short_bio: >-
     Under the supervision of Professors Yong-Lu Li and Cewu Lu at RHOS, I have studied how robots adapt to new tools.
   </p>
   <p>
-    My research internship at ACE Robotics focuses on egocentric data and simulation infrastructure.
+    My research internship at ACE Robotics focuses on egocentric data and simulation infrastructure. Within the ACE-Data-0.5 project, I help develop ACE Simulator so we can design manipulation tasks, collect demonstrations, and compare robot policies on the same tasks under repeatable conditions.
   </p>
   <p>
-    Alongside my work at ACE, I am a research intern in Prof. Bo Zhao's MINT lab at Shanghai Jiao Tong University.
+    Alongside my work at ACE, I am a research intern in Prof. Bo Zhao's MINT lab at Shanghai Jiao Tong University. My project, EgoHandTracker, explores how nearby frames and additional camera views can help track hands in 3D from first-person video, even when an object hides the fingers from view.
   </p>
 
 portrait_url: /assets/images/photos/portrait_formal.png
